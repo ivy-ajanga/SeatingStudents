@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\bin\Debug\netcoreapp3.1\SeatingStudents.exe
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\bin\Debug\netcoreapp3.1\SeatingStudents.deps.json
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\bin\Debug\netcoreapp3.1\SeatingStudents.runtimeconfig.json
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\bin\Debug\netcoreapp3.1\SeatingStudents.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\bin\Debug\netcoreapp3.1\SeatingStudents.dll
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\bin\Debug\netcoreapp3.1\SeatingStudents.pdb
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.AssemblyInfo.cs
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.dll
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.pdb
+C:\Users\Administration\source\repos\SeatingStudents\SeatingStudents\obj\Debug\netcoreapp3.1\SeatingStudents.genruntimeconfig.cache
